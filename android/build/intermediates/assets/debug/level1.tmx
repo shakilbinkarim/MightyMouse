@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="240" height="13" tilewidth="16" tileheight="16" nextobjectid="167">
+ <tileset firstgid="1" name="tileset_gutter" tilewidth="16" tileheight="16" spacing="2" margin="1" tilecount="924" columns="33">
+  <image source="tileset_gutter.png" width="594" height="504"/>
+  <tile id="0">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="blocked" value=""/>
+    <property name="smashable" value=""/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="blocked" value=""/>
+    <property name="smashable" value=""/>
+   </properties>
+  </tile>
+  <tile id="24">
+   <properties>
+    <property name="blocked" value=""/>
+    <property name="coinblock" value=""/>
+   </properties>
+  </tile>
+  <tile id="25">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="26">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="33">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="264">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="265">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="266">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="267">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="268">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="297">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="298">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="299">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="300">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="301">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="330">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="331">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="363">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="364">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Background Color" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJzt06ENAEAIwEDC/gv9bBgmQD5BnDhf08qIAgAAAAAAAAAAAFjwDjQAM48CPzX7bAuh
+  </data>
+ </layer>
+ <layer name="Graphic2" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJzt1jEKwkAQQNHETrtopaL22kkqU+RCWtpLCm+g3iTncxayECZZdwkGNf4Hg1YiQz6TKAIAAAAAAACA7tbxp/8BgC5W0m4us6FhoBdjaWsSN7+7LEZhv2vbzWkY6M1RujpVbW3lc/eis7m0m8ksPQ3X2y1oGF/qPoDnMbRf227madi0e1G3t94yDYebsqve3GS3pczjx3cc0q9t91Dr19AN63fmwtExDfslsqO9zIxdvZ1ttxxAw1fHWPruZqpZ27DrnVnf4oKGvUy7Z5m0Ghp+H93uUBs22u6ubth0a8dou7euoeGmpNpJ+gcNPwETNSu9
+  </data>
+ </layer>
+ <layer name="Graphic Layer" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJztlztSwzAQQG2ngi5Qk7iGDg4AHIKj0KfiBk5qLmHofbEsM9Zks2j1sX6WrZ15k3Esy9LuPk0yNFU1jPzF0BQKhRyh/opr7vsQdMBx5BR5/52n9+a+h7L+POG89OWvLOiYHvgZ+Y3cD73Be3FvcPPOeQ9l/W4965qLkIRen4m/Juw2VbUH2o17P9iCe8PnvLH2UNZvjipC52zqelXXc+EVvH0D3g389cWuTr9vl7pOidTrDp2P1OsIWWfufuo1puAB3D0A+4wdpvVdi6uqHKReSyE8wt3DQhxeM2s9s9YKdTeEw8dyHgRn7b855sgN9P1tbVYHm7ECzl2fDncwRw+cFuqwzJUp3ri4V/4zxOe7uTjHjXmEe0/IyTuLsTp07vpwWLjbL8hhXAPOldju2PhbnNZDveRyKZzj5sFObuHzGbhnxuv8xd+buuviMHV3CQ7TGuj8pbUQ7uvObZv+0gXtgdhnS45gL1U5VY1r68t90TcvCoexv6qwdXeKw5y7OTtMa/AhybUYKwvsPj23uXl0/dUa1FsVqXM6R76qa7jQjaP3P+trcP+YvnOquzYO69zN0eFt/T//tAaqwM+b1ooL1+dlkTq/Os6tiVHj
+  </data>
+ </layer>
+ <objectgroup name="Ground">
+  <object id="5" x="0" y="192" width="3839.5" height="18"/>
+  <object id="153" x="-5.18182" y="0.0909091" width="3843.36" height="16.0909"/>
+  <object id="160" x="144" y="18" width="13" height="173"/>
+  <object id="161" x="3441.5" y="21" width="62.5" height="171"/>
+  <object id="164" x="3433" y="-213" width="1"/>
+ </objectgroup>
+</map>

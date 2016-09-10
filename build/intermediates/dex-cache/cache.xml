@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Libraries\Documents\AndroidStudioProjects\SuperMarioClone\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dc45bec3c760481f5eda86711eab5be0d8682ab7">
+        <dex dex="D:\Libraries\Documents\AndroidStudioProjects\SuperMarioClone\android\build\intermediates\pre-dexed\debug\core-1.0_3f905481e76a037e964cb7cc7b30b30f6eee8bcd.jar" />
+    </item>
+
+</items>

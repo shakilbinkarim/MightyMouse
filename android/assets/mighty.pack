@@ -1,0 +1,68 @@
+
+mighty.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+mouse01
+  rotate: false
+  xy: 0, 0
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+mouse02
+  rotate: false
+  xy: 256, 0
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+mouse03
+  rotate: false
+  xy: 512, 0
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+mouse04
+  rotate: false
+  xy: 768, 0
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+mouse05
+  rotate: false
+  xy: 1024, 0
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+mouse06
+  rotate: false
+  xy: 1280, 0
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+mouse07
+  rotate: false
+  xy: 1536, 0
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+mouse08
+  rotate: false
+  xy: 1792, 0
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+mouse09
+  rotate: false
+  xy: 2048, 0
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
